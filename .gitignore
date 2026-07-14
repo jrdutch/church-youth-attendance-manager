@@ -1,0 +1,31 @@
+# Dependencies & build output
+node_modules/
+.next/
+out/
+
+# ── PRIVATE DATA — never commit ─────────────────────────
+# The database (students, medical info, attendance)
+church.db
+church.db-shm
+church.db-wal
+*.db
+
+# Database backups
+backups/
+
+# Student photos
+public/uploads/
+
+# Secrets (JWT, webhook key, email password)
+.env.local
+.env*.local
+
+# Your church's logo (repo ships a generic placeholder)
+public/logo.png
+
+# ── OS / editor noise ────────────────────────────────────
+.DS_Store
+*.log
+*.pem
+.vscode/
+.idea/
