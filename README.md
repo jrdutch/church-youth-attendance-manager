@@ -36,8 +36,8 @@ Runs on a single computer (a Mac mini in the parish office works great) with a t
 Requires [Node.js](https://nodejs.org) 18+ (LTS recommended).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youth-attendance.git
-cd youth-attendance
+git clone https://github.com/jrdutch/church-youth-attendance-manager.git
+cd church-youth-attendance-manager
 npm install
 
 # Create your config
