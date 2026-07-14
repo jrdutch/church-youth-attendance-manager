@@ -4,6 +4,15 @@ A free, self-hosted attendance and student management app for parish youth minis
 
 Runs on a single computer (a Mac mini in the parish office works great) with a tablet at the classroom door for self check-in.
 
+![Dashboard](docs/screenshots/dashboard.png)
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/kiosk.png" alt="Kiosk check-in"><br><em>Tablet kiosk — tap to check in or out</em></td>
+    <td width="50%"><img src="docs/screenshots/service.png" alt="Service points"><br><em>Service point system with scholarship tiers</em></td>
+  </tr>
+</table>
+
 ## Features
 
 **Check-in & safety**
